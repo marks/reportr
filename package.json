@@ -5,16 +5,16 @@
     "author": "samypesse@gmail.com",
     "dependencies": {
         "q": "0.9.6",
-        "underscore": "1.4.4",
+        "underscore": "1.13.8",
         "event-stream": "3.0.11",
         "readable-stream": "1.0.2",
-        "request": "2.27.0",
-        "mongoose": "3.6.20",
+        "request": "2.88.2",
+        "mongoose": "6.13.10",
         "eventemitter2": "0.4.13",
-        "express": "3.3.5",
-        "socket.io": "0.9.16",
+        "express": "4.22.0",
+        "socket.io": "2.5.1",
         "hr.js": "0.1.1",
-        "uuid": "1.4.1"
+        "uuid": "14.0.0"
     },
     "bin": {
         "run": "./bin/run.js"
